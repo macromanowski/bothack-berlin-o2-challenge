@@ -1,0 +1,13 @@
+apiai==1.0.2
+click==6.6
+Flask==0.10.1
+gunicorn==19.6.0
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+mysql-connector==2.1.4
+numpy==1.11.1
+requests==2.11.1
+simplejson==3.10.0
+skyscanner==1.1.4
+Werkzeug==0.11.11
