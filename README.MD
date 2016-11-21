@@ -1,4 +1,5 @@
-# Bothack.Berlin - O2 Challenge
+# Bothack.Berlin - Winners of the O2 Challenge award!
+
 Chat bot created for purpose of Bothack.Berlin event.
 
 This bot was a winner in [Telefónica digital companion challenge](https://github.com/bothackBerlin/bothack-challenges/blob/master/telefonica/companion-challenge/README.md#challenge-1) competition.
